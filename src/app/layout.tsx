@@ -13,16 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dobble — The Complete Spend Management Platform",
+  title: "Dobble | Expense & Procurement Management",
   description:
-    "Dobble combines corporate cards, expense management, procurement workflows, vendor hub, budgets, and real-time analytics — one platform for complete business spend control.",
-  keywords: "expense management, corporate cards, procurement, spend management, vendor management, budget control, Nigeria",
-  openGraph: {
-    title: "Dobble — The Complete Spend Management Platform",
-    description: "Corporate cards, expense management, procurement, vendor hub, and budgets. All in one place.",
-    type: "website",
-    url: "https://dobble.com",
-  },
+    "Dobble is a business expense and procurement management platform with cards, wallets, and vendor management.",
 };
 
 export default function RootLayout({
